@@ -1,0 +1,31 @@
+{
+    // Config settings
+    "config.option.failed_harvest.name": "Hatalı Hasadı Önle",
+    "config.option.failed_harvest.description": "Geçerli bir hayvan seçilmezse başarısız sağım/kırkım animasyonunu ve ses efektini önler. Not: Android'de 'Hareket için Dokun ve Otomatik Saldırı' kontrol şemasını kullanıyorsanız bunu devre dışı bırakın.",
+    "config.option.animal_produce.name": "Hayvan Ürününü Göster",
+    "config.option.animal_produce.description": "Hasata hazırsa, ürünü hayvanın üzerinde görüntüler.",
+    "config.option.hearts_animal.name": "Çiftlik Hayvanı Kalplerini Göster",
+    "config.option.hearts_animal.description": "Henüz sevilmemiş çiftlik hayvanlarının (inek, ördek vb.) üstünde kalpleri göster.",
+    "config.option.hearts_pet.name": "Evcil Hayvan Kalplerini Göster",
+    "config.option.hearts_pet.description": "Henüz sevilmemiş evcil hayvanların (köpekler, kediler vb.) üstünde kalpleri göster.",
+    "config.option.hearts_enabled.name": "[!] Kalperi Aktifleştir",
+    "config.option.hearts_enabled.description": "Kalplerin hayvanların üzerinde görüntülenmesini sağlar. Uyarı: Bunu kapatmak, bu mod tarafından etkinleştirilen TÜM kayan kalpleri (çiftlil hayvanları, evcil hayvanlar vb.)",
+    "config.option.hearts_max_friendship.name": "Maksimum Arkadaşlıkta Kalpleri Gizle",
+    "config.option.hearts_max_friendship.description": "Bir çiftlik hayvanıyla veya evcil hayvanla arkadaşlık maksimum seviyedeyken kalpleri gizler. Uyarı: Buna dikkat edin, çünkü arkadaşınızı sevmezseniz, günün sonunda arkadaşlık azalacaktır!",
+
+    // Other messages
+    "notification.inventory_full": "Envanter Dolu",
+
+    "action.out_of_range.milk": "Süt sağabileceğin",
+    "action.out_of_range.shear": "Yün kırpabileceğin",
+    "notification.out_of_range": "{{ranchActionPresent}} mesafede değilsin ",
+
+    "product.milk": "süt",
+    "product.wool": "yün",
+
+    "notification.util_action": "Küçük {{Name}} {{Days}} gün içinde {{Product}} üretecek..",
+
+    "action.unable.milk": "Sağacak",
+    "action.unable.shear": "Kırpacak",
+    "notification.unable": "{{Action}} bir şey yok"
+}
